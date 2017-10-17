@@ -1,5 +1,11 @@
 # -
 一个项目的我的思考过程的记录
+
+
+
+
+
+主代码如下：
 #include"stdafx.h";
 #include"conio.h";
 #include"gts.h"
